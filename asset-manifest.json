@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Clinic/static/css/main.d4c70319.css",
-    "main.js": "/Clinic/static/js/main.53c252f5.js",
-    "static/js/787.6c171a22.chunk.js": "/Clinic/static/js/787.6c171a22.chunk.js",
-    "static/media/about.jpg": "/Clinic/static/media/about.d8c3c8e35b95f89900a4.jpg",
-    "static/media/1.png": "/Clinic/static/media/1.7c2bc96d67d3eba1d64a.png",
-    "static/media/blog2.jpg": "/Clinic/static/media/blog2.67db6c474a828bd7a0cd.jpg",
-    "static/media/blog1.jpg": "/Clinic/static/media/blog1.a3848a1189e2114e1b47.jpg",
-    "static/media/mobile.png": "/Clinic/static/media/mobile.f82d73222992d2101a09.png",
-    "static/media/pic-1.jpg": "/Clinic/static/media/pic-1.ad1ed7ee8284087fe9ee.jpg",
-    "index.html": "/Clinic/index.html",
-    "main.d4c70319.css.map": "/Clinic/static/css/main.d4c70319.css.map",
-    "main.53c252f5.js.map": "/Clinic/static/js/main.53c252f5.js.map",
-    "787.6c171a22.chunk.js.map": "/Clinic/static/js/787.6c171a22.chunk.js.map"
+    "main.css": "./static/css/main.22c950e2.css",
+    "main.js": "./static/js/main.37e3af2c.js",
+    "static/js/787.6c171a22.chunk.js": "./static/js/787.6c171a22.chunk.js",
+    "static/media/about.jpg": "./static/media/about.d8c3c8e35b95f89900a4.jpg",
+    "static/media/1.png": "./static/media/1.7c2bc96d67d3eba1d64a.png",
+    "static/media/blog2.jpg": "./static/media/blog2.67db6c474a828bd7a0cd.jpg",
+    "static/media/blog1.jpg": "./static/media/blog1.a3848a1189e2114e1b47.jpg",
+    "static/media/mobile.png": "./static/media/mobile.f82d73222992d2101a09.png",
+    "static/media/pic-1.jpg": "./static/media/pic-1.ad1ed7ee8284087fe9ee.jpg",
+    "index.html": "./index.html",
+    "main.22c950e2.css.map": "./static/css/main.22c950e2.css.map",
+    "main.37e3af2c.js.map": "./static/js/main.37e3af2c.js.map",
+    "787.6c171a22.chunk.js.map": "./static/js/787.6c171a22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4c70319.css",
-    "static/js/main.53c252f5.js"
+    "static/css/main.22c950e2.css",
+    "static/js/main.37e3af2c.js"
   ]
 }
